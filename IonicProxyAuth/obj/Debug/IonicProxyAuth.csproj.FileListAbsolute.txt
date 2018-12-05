@@ -1,0 +1,10 @@
+C:\Desenv\Meus documentos\dev\IonicProxyAuth\IonicProxyAuth\bin\Debug\IonicProxyAuth.exe.config
+C:\Desenv\Meus documentos\dev\IonicProxyAuth\IonicProxyAuth\bin\Debug\IonicProxyAuth.exe
+C:\Desenv\Meus documentos\dev\IonicProxyAuth\IonicProxyAuth\bin\Debug\IonicProxyAuth.pdb
+C:\Desenv\Meus documentos\dev\IonicProxyAuth\IonicProxyAuth\obj\Debug\IonicProxyAuth.frmMain.resources
+C:\Desenv\Meus documentos\dev\IonicProxyAuth\IonicProxyAuth\obj\Debug\IonicProxyAuth.Properties.Resources.resources
+C:\Desenv\Meus documentos\dev\IonicProxyAuth\IonicProxyAuth\obj\Debug\IonicProxyAuth.csproj.GenerateResource.cache
+C:\Desenv\Meus documentos\dev\IonicProxyAuth\IonicProxyAuth\obj\Debug\IonicProxyAuth.csproj.CoreCompileInputs.cache
+C:\Desenv\Meus documentos\dev\IonicProxyAuth\IonicProxyAuth\obj\Debug\IonicProxyAuth.exe
+C:\Desenv\Meus documentos\dev\IonicProxyAuth\IonicProxyAuth\obj\Debug\IonicProxyAuth.pdb
+C:\Desenv\Meus documentos\dev\IonicProxyAuth\IonicProxyAuth\obj\Debug\IonicProxyAuth.csprojAssemblyReference.cache
